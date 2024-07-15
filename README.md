@@ -61,10 +61,4 @@ The data should be stored in a CSV file named `customer_purchase_history.csv`.
 
 The script includes visualization of the clusters using a pair plot. The visualizations help in understanding the distinct customer segments.
 
-## Contributing
 
-Contributions are welcome! If you have any suggestions or improvements, please create an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
